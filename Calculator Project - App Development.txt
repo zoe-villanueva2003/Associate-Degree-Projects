@@ -1,0 +1,1 @@
+Create an application that looks similar to the image given.  The application should be able to converts from Fahrenheit to Celsius and vice versa.  Include a setting button that allows the user to change the font size, cover image, and text color/background color.
